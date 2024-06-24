@@ -2,3 +2,6 @@
 	path = Python_TrustM_GUI/linux-optiga-trust-m
 	url = https://github.com/Infineon/linux-optiga-trust-m
 	branch = provider_dev
+[submodule "Python_TrustM_GUI/aws-iot-device-sdk-embedded-C"]
+	path = Python_TrustM_GUI/aws-iot-device-sdk-embedded-C
+	url = https://github.com/ZacHengInfineon/aws-iot-device-sdk-embedded-C.git
